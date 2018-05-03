@@ -1,0 +1,25 @@
+{
+  "name": "vue-datatable",
+  "version": "1.0.0",
+  "description": "A Vue.js wrapper over the very popular and awesome jQuery DataTable. ",
+  "main": "index.js",
+  "dependencies": {
+    "datatables": "1.10.16",
+    "jQuery": "3.3.1"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsmosysSoftware/vue-datatable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsmosysSoftware/vue-datatable/issues"
+  },
+  "homepage": "https://github.com/OsmosysSoftware/vue-datatable#readme"
+}
